@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+:root{
+  --header-h: 60px;
+  --footer-h: 80px;
+  --main-bg: #eaeaea;
+  --main-h: calc(100vh - var(--header-h) - var(--footer-h))
+}
+.header{
+  background: beige;
+  height: var(--header-h);
+}
+.main{
+  background: var(--main-bg);
+  height: var(--main-h);
+}
+.footer{
+  background: royalblue;
+  height: var(--footer-h);
+}
 *, *:before, *:after{
   margin: 0;
   padding: 0;
