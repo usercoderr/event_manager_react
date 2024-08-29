@@ -1,10 +1,8 @@
+import RouterComponent from "./routes/routers.tsx";
 
 function App() {
 
-  return (
-    <>
-    </>
-  )
+  return <RouterComponent/>
 }
 
 export default App

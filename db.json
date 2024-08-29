@@ -1,0 +1,955 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Gufito новый альбом",
+      "description": "Релиз нового альбома Guf.",
+      "date": "2024-09-24T00:00:00.000Z",
+      "time": "13:00",
+      "location": "Москва, клуб RED",
+      "author": "Gufitoooo",
+      "contact": {
+        "phoneNumber": "+7 123 456 7890",
+        "instagram": "guf_official",
+        "telegram": "@guf_music"
+      },
+      "hashTags": [
+        {
+          "id": "1724755249418-666",
+          "tag": "music"
+        },
+        {
+          "id": "1724755249418-807",
+          "tag": "album"
+        },
+        {
+          "id": "1724755249418-794",
+          "tag": "concert"
+        },
+        {
+          "id": "1724755249418-255",
+          "tag": "rsdsdsd"
+        },
+        {
+          "id": "1724755249418-562",
+          "tag": "djnsd"
+        },
+        {
+          "id": "1724755249418-386",
+          "tag": "hip"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Осенний марафон",
+      "description": "Марафон в поддержку здорового образа жизни.",
+      "date": "2024-10-05",
+      "time": "08:00",
+      "location": "Санкт-Петербург, Центральный парк",
+      "author": "ЗОЖ",
+      "contact": {
+        "phoneNumber": "+7 234 567 8910",
+        "instagram": "run_saintpete",
+        "telegram": "@spb_marathon"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "run"
+        },
+        {
+          "id": "2",
+          "tag": "marathon"
+        },
+        {
+          "id": "3",
+          "tag": "autumn"
+        },
+        {
+          "id": "4",
+          "tag": "health"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Вечер классической музыки",
+      "description": "Концерт классической музыки с участием ведущих оркестров страны.",
+      "date": "2024-10-10",
+      "time": "20:00",
+      "location": "Московская филармония",
+      "author": "Philharmonia",
+      "contact": {
+        "phoneNumber": "+7 345 678 9012",
+        "instagram": "moscow_philharmonia",
+        "telegram": "@philharmonia"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "classical"
+        },
+        {
+          "id": "2",
+          "tag": "music"
+        },
+        {
+          "id": "3",
+          "tag": "concert"
+        },
+        {
+          "id": "4",
+          "tag": "culture"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Выставка современных художников",
+      "description": "Экспозиция работ современных художников.",
+      "date": "2024-09-25",
+      "time": "11:00",
+      "location": "Галерея Третьяковка",
+      "author": "Art Center",
+      "contact": {
+        "phoneNumber": "+7 456 789 0123",
+        "instagram": "tretyakov_gallery",
+        "telegram": "@tretyakov"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "art"
+        },
+        {
+          "id": "2",
+          "tag": "modern"
+        },
+        {
+          "id": "3",
+          "tag": "exhibition"
+        },
+        {
+          "id": "4",
+          "tag": "culture"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Летний музыкальный фестиваль",
+      "description": "Фестиваль музыки на открытом воздухе.",
+      "date": "2024-08-15",
+      "time": "16:00",
+      "location": "Сочи, Олимпийский парк",
+      "author": "Music Fest",
+      "contact": {
+        "phoneNumber": "+7 567 890 1234",
+        "instagram": "sochi_music_fest",
+        "telegram": "@sochi_fest"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "festival"
+        },
+        {
+          "id": "2",
+          "tag": "summer"
+        },
+        {
+          "id": "3",
+          "tag": "music"
+        },
+        {
+          "id": "4",
+          "tag": "outdoors"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Театральная премьера",
+      "description": "Премьера новой постановки в театре.",
+      "date": "2024-11-01",
+      "time": "19:30",
+      "location": "МХАТ",
+      "author": "Theatre Group",
+      "contact": {
+        "phoneNumber": "+7 678 901 2345",
+        "instagram": "mhat_theatre",
+        "telegram": "@mhat_premiere"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "theatre"
+        },
+        {
+          "id": "2",
+          "tag": "premiere"
+        },
+        {
+          "id": "3",
+          "tag": "drama"
+        },
+        {
+          "id": "4",
+          "tag": "culture"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Международная конференция по IT",
+      "description": "Конференция по новым технологиям и инновациям.",
+      "date": "2024-12-05",
+      "time": "09:00",
+      "location": "Москва, Экспоцентр",
+      "author": "IT Conference",
+      "contact": {
+        "phoneNumber": "+7 789 012 3456",
+        "instagram": "it_conference_moscow",
+        "telegram": "@itconf"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "IT"
+        },
+        {
+          "id": "2",
+          "tag": "technology"
+        },
+        {
+          "id": "3",
+          "tag": "innovation"
+        },
+        {
+          "id": "4",
+          "tag": "conference"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Рождественский ярмарок",
+      "description": "Традиционная рождественская ярмарка.",
+      "date": "2024-12-20",
+      "time": "10:00",
+      "location": "Москва, Красная площадь",
+      "author": "City Administration",
+      "contact": {
+        "phoneNumber": "+7 890 123 4567",
+        "instagram": "moscow_christmas_market",
+        "telegram": "@xmas_market"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "christmas"
+        },
+        {
+          "id": "2",
+          "tag": "market"
+        },
+        {
+          "id": "3",
+          "tag": "holiday"
+        },
+        {
+          "id": "4",
+          "tag": "tradition"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Фестиваль кино",
+      "description": "Международный фестиваль независимого кино.",
+      "date": "2024-10-20",
+      "time": "18:00",
+      "location": "Сочи, Зимний театр",
+      "author": "Film Fest",
+      "contact": {
+        "phoneNumber": "+7 901 234 5678",
+        "instagram": "sochi_film_fest",
+        "telegram": "@film_festival"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "film"
+        },
+        {
+          "id": "2",
+          "tag": "festival"
+        },
+        {
+          "id": "3",
+          "tag": "cinema"
+        },
+        {
+          "id": "4",
+          "tag": "indie"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Научная ярмарка",
+      "description": "Демонстрация научных достижений и открытий.",
+      "date": "2024-11-15",
+      "time": "10:00",
+      "location": "Новосибирск, Академгородок",
+      "author": "Science Fair",
+      "contact": {
+        "phoneNumber": "+7 012 345 6789",
+        "instagram": "novosib_science_fair",
+        "telegram": "@science_fair"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "science"
+        },
+        {
+          "id": "2",
+          "tag": "fair"
+        },
+        {
+          "id": "3",
+          "tag": "innovation"
+        },
+        {
+          "id": "4",
+          "tag": "technology"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Конкурс кулинаров",
+      "description": "Международный конкурс профессиональных кулинаров.",
+      "date": "2024-09-15",
+      "time": "12:00",
+      "location": "Москва, Экспоцентр",
+      "author": "Culinary Association",
+      "contact": {
+        "phoneNumber": "+7 123 456 7890",
+        "instagram": "moscow_culinary_competition",
+        "telegram": "@culinary_comp"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "culinary"
+        },
+        {
+          "id": "2",
+          "tag": "competition"
+        },
+        {
+          "id": "3",
+          "tag": "food"
+        },
+        {
+          "id": "4",
+          "tag": "chef"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Форум по защите природы",
+      "description": "Международный форум по вопросам охраны окружающей среды.",
+      "date": "2024-11-20",
+      "time": "09:00",
+      "location": "Санкт-Петербург, Ледовый дворец",
+      "author": "Green World",
+      "contact": {
+        "phoneNumber": "+7 234 567 8910",
+        "instagram": "spb_green_forum",
+        "telegram": "@green_world"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "environment"
+        },
+        {
+          "id": "2",
+          "tag": "nature"
+        },
+        {
+          "id": "3",
+          "tag": "forum"
+        },
+        {
+          "id": "4",
+          "tag": "sustainability"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Велопробег за здоровый образ жизни",
+      "description": "Велосипедный марафон в поддержку ЗОЖ.",
+      "date": "2024-09-10",
+      "time": "07:00",
+      "location": "Москва, ВДНХ",
+      "author": "Healthy Living",
+      "contact": {
+        "phoneNumber": "+7 345 678 9012",
+        "instagram": "moscow_bike_marathon",
+        "telegram": "@bike_healthy"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "cycling"
+        },
+        {
+          "id": "2",
+          "tag": "health"
+        },
+        {
+          "id": "3",
+          "tag": "marathon"
+        },
+        {
+          "id": "4",
+          "tag": "sport"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Благотворительный аукцион",
+      "description": "Аукцион в помощь нуждающимся.",
+      "date": "2024-12-01",
+      "time": "18:00",
+      "location": "Москва, Пушкинский музей",
+      "author": "Charity Fund",
+      "contact": {
+        "phoneNumber": "+7 456 789 0123",
+        "instagram": "charity_auction_moscow",
+        "telegram": "@charity_fund"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "charity"
+        },
+        {
+          "id": "2",
+          "tag": "auction"
+        },
+        {
+          "id": "3",
+          "tag": "help"
+        },
+        {
+          "id": "4",
+          "tag": "donation"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Экологическая ярмарка",
+      "description": "Ярмарка экологически чистых продуктов.",
+      "date": "2024-09-05",
+      "time": "09:00",
+      "location": "Москва, Парк Горького",
+      "author": "Eco Market",
+      "contact": {
+        "phoneNumber": "+7 567 890 1234",
+        "instagram": "moscow_eco_market",
+        "telegram": "@eco_market"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "eco"
+        },
+        {
+          "id": "2",
+          "tag": "market"
+        },
+        {
+          "id": "3",
+          "tag": "organic"
+        },
+        {
+          "id": "4",
+          "tag": "nature"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Фестиваль уличной еды",
+      "description": "Праздник уличной еды с участием лучших шеф-поваров.",
+      "date": "2024-09-20",
+      "time": "12:00",
+      "location": "Москва, Сокольники",
+      "author": "Street Food Fest",
+      "contact": {
+        "phoneNumber": "+7 678 901 2345",
+        "instagram": "moscow_street_food_fest",
+        "telegram": "@streetfood_fest"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "food"
+        },
+        {
+          "id": "2",
+          "tag": "festival"
+        },
+        {
+          "id": "3",
+          "tag": "streetfood"
+        },
+        {
+          "id": "4",
+          "tag": "chef"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Международный фестиваль танца",
+      "description": "Фестиваль танцев со всего мира.",
+      "date": "2024-11-10",
+      "time": "14:00",
+      "location": "Москва, Кремль",
+      "author": "Dance World",
+      "contact": {
+        "phoneNumber": "+7 789 012 3456",
+        "instagram": "moscow_dance_world",
+        "telegram": "@dance_world"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "dance"
+        },
+        {
+          "id": "2",
+          "tag": "festival"
+        },
+        {
+          "id": "3",
+          "tag": "world"
+        },
+        {
+          "id": "4",
+          "tag": "art"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Зимний лыжный марафон",
+      "description": "Ежегодный лыжный марафон для всех желающих.",
+      "date": "2024-12-15",
+      "time": "10:00",
+      "location": "Сочи, Красная поляна",
+      "author": "Ski Marathon",
+      "contact": {
+        "phoneNumber": "+7 890 123 4567",
+        "instagram": "sochi_ski_marathon",
+        "telegram": "@ski_marathon"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "ski"
+        },
+        {
+          "id": "2",
+          "tag": "winter"
+        },
+        {
+          "id": "3",
+          "tag": "marathon"
+        },
+        {
+          "id": "4",
+          "tag": "sport"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Ночь музеев",
+      "description": "Открытие музеев ночью с эксклюзивными экскурсиями.",
+      "date": "2024-05-18",
+      "time": "21:00",
+      "location": "Москва, Эрмитаж",
+      "author": "Museum Night",
+      "contact": {
+        "phoneNumber": "+7 901 234 5678",
+        "instagram": "moscow_museum_night",
+        "telegram": "@museum_night"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "museum"
+        },
+        {
+          "id": "2",
+          "tag": "night"
+        },
+        {
+          "id": "3",
+          "tag": "culture"
+        },
+        {
+          "id": "4",
+          "tag": "art"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Фестиваль воздушных шаров",
+      "description": "Праздник с воздушными шарами и аттракционами.",
+      "date": "2024-08-25",
+      "time": "09:00",
+      "location": "Казань, Парк Победы",
+      "author": "Balloon Fest",
+      "contact": {
+        "phoneNumber": "+7 012 345 6789",
+        "instagram": "kazan_balloon_fest",
+        "telegram": "@balloon_fest"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "balloon"
+        },
+        {
+          "id": "2",
+          "tag": "festival"
+        },
+        {
+          "id": "3",
+          "tag": "fun"
+        },
+        {
+          "id": "4",
+          "tag": "family"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Квест в городе",
+      "description": "Городской квест с заданиями и приключениями.",
+      "date": "2024-09-10",
+      "time": "14:00",
+      "location": "Москва, Парк Коломенское",
+      "author": "Quest City",
+      "contact": {
+        "phoneNumber": "+7 123 456 7890",
+        "instagram": "moscow_quest_city",
+        "telegram": "@quest_city"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "quest"
+        },
+        {
+          "id": "2",
+          "tag": "city"
+        },
+        {
+          "id": "3",
+          "tag": "adventure"
+        },
+        {
+          "id": "4",
+          "tag": "game"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Рок-фестиваль",
+      "description": "Фестиваль рок-музыки с участием известных групп.",
+      "date": "2024-07-15",
+      "time": "18:00",
+      "location": "Москва, Олимпийский",
+      "author": "Rock Fest",
+      "contact": {
+        "phoneNumber": "+7 234 567 8910",
+        "instagram": "moscow_rock_fest",
+        "telegram": "@rock_festival"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "rock"
+        },
+        {
+          "id": "2",
+          "tag": "festival"
+        },
+        {
+          "id": "3",
+          "tag": "music"
+        },
+        {
+          "id": "4",
+          "tag": "concert"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Конференция по бизнесу и финансам",
+      "description": "Конференция по вопросам управления бизнесом и финансами.",
+      "date": "2024-11-30",
+      "time": "09:00",
+      "location": "Москва, ВДНХ",
+      "author": "Business Conference",
+      "contact": {
+        "phoneNumber": "+7 345 678 9012",
+        "instagram": "moscow_business_conf",
+        "telegram": "@biz_conf"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "business"
+        },
+        {
+          "id": "2",
+          "tag": "finance"
+        },
+        {
+          "id": "3",
+          "tag": "conference"
+        },
+        {
+          "id": "4",
+          "tag": "management"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Выставка ретро-автомобилей",
+      "description": "Выставка редких ретро-автомобилей.",
+      "date": "2024-10-05",
+      "time": "10:00",
+      "location": "Санкт-Петербург, СКК",
+      "author": "Retro Cars",
+      "contact": {
+        "phoneNumber": "+7 456 789 0123",
+        "instagram": "spb_retro_cars",
+        "telegram": "@retro_cars"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "retro"
+        },
+        {
+          "id": "2",
+          "tag": "cars"
+        },
+        {
+          "id": "3",
+          "tag": "exhibition"
+        },
+        {
+          "id": "4",
+          "tag": "vintage"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Детский фестиваль искусств",
+      "description": "Фестиваль искусств для детей.",
+      "date": "2024-09-25",
+      "time": "12:00",
+      "location": "Москва, ЦДХ",
+      "author": "Kids Art Fest",
+      "contact": {
+        "phoneNumber": "+7 567 890 1234",
+        "instagram": "moscow_kids_art_fest",
+        "telegram": "@kids_art"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "kids"
+        },
+        {
+          "id": "2",
+          "tag": "art"
+        },
+        {
+          "id": "3",
+          "tag": "festival"
+        },
+        {
+          "id": "4",
+          "tag": "family"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Фестиваль уличного кино",
+      "description": "Показ фильмов под открытым небом.",
+      "date": "2024-08-20",
+      "time": "20:00",
+      "location": "Москва, Парк Зарядье",
+      "author": "Street Cinema",
+      "contact": {
+        "phoneNumber": "+7 678 901 2345",
+        "instagram": "moscow_street_cinema",
+        "telegram": "@street_cinema"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "cinema"
+        },
+        {
+          "id": "2",
+          "tag": "outdoors"
+        },
+        {
+          "id": "3",
+          "tag": "movies"
+        },
+        {
+          "id": "4",
+          "tag": "culture"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Велопробег по набережной",
+      "description": "Массовый велопробег по набережной города.",
+      "date": "2024-09-01",
+      "time": "10:00",
+      "location": "Москва, Воробьевы горы",
+      "author": "City Ride",
+      "contact": {
+        "phoneNumber": "+7 789 012 3456",
+        "instagram": "moscow_city_ride",
+        "telegram": "@city_ride"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "cycling"
+        },
+        {
+          "id": "2",
+          "tag": "city"
+        },
+        {
+          "id": "3",
+          "tag": "ride"
+        },
+        {
+          "id": "4",
+          "tag": "sport"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Благотворительный забег",
+      "description": "Забег в поддержку благотворительных организаций.",
+      "date": "2024-10-10",
+      "time": "08:00",
+      "location": "Москва, ВДНХ",
+      "author": "Charity Run",
+      "contact": {
+        "phoneNumber": "+7 890 123 4567",
+        "instagram": "moscow_charity_run",
+        "telegram": "@charity_run"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "run"
+        },
+        {
+          "id": "2",
+          "tag": "charity"
+        },
+        {
+          "id": "3",
+          "tag": "health"
+        },
+        {
+          "id": "4",
+          "tag": "sport"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Форум по развитию городов",
+      "description": "Форум по вопросам урбанистики и развития городов.",
+      "date": "2024-12-10",
+      "time": "09:00",
+      "location": "Москва, Сколково",
+      "author": "Urban Development",
+      "contact": {
+        "phoneNumber": "+7 012 345 6789",
+        "instagram": "moscow_urban_forum",
+        "telegram": "@urban_forum"
+      },
+      "hashTags": [
+        {
+          "id": "1",
+          "tag": "urban"
+        },
+        {
+          "id": "2",
+          "tag": "development"
+        },
+        {
+          "id": "3",
+          "tag": "city"
+        },
+        {
+          "id": "4",
+          "tag": "forum"
+        }
+      ]
+    },
+    {
+      "id": "1724930864053-684",
+      "title": "UUUUSH",
+      "description": "BSKHDBKHS",
+      "date": "2025-12-12T00:00:00.000Z",
+      "time": "12:12",
+      "location": "S",
+      "author": "S",
+      "contact": {
+        "phoneNumber": "SD",
+        "instagram": "SDS",
+        "telegram": "SD"
+      },
+      "hashTags": []
+    }
+  ]
+}
